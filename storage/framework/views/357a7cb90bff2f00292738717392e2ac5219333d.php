@@ -1,0 +1,1 @@
+<?php /**PATH /Users/elizzwell/Documents/work/t-pajak/tpbb-devbjb/resources/views/management-app/provinsi/content/detail.blade.php ENDPATH**/ ?>
